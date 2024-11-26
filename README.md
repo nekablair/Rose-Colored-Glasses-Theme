@@ -63,7 +63,7 @@ To enhance the theme with fonts like `Fira Code` or `Cascadia Code`:
 ---
 
 ## 🛠️ Issues and Feedback  
-If you find any issues or have suggestions to improve this theme, feel free to open an issue on the [GitHub repository](https://github.com/yourusername/rose-colored-glasses-theme/issues). We’d love to hear your feedback! 🐞  
+If you find any issues or have suggestions to improve this theme, feel free to open an issue on the [GitHub repository](https://github.com/nekablair/Rose-Colored-Glasses-Theme). We’d love to hear your feedback! 🐞  
 
 ---
 
