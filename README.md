@@ -15,7 +15,7 @@ Welcome to the **Rose Colored Glasses Theme**! This light, pastel-inspired Visua
 1. **Clone the Repository**:  
    Download the theme files from the repository:  
    ```bash
-   git clone https://github.com/yourusername/rose-colored-glasses-theme.git
+   git clone https://github.com/nekablair/rose-colored-glasses-theme.git
    ```
 
 2. **Locate the `.vscode` Directory**:  

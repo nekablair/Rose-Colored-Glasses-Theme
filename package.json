@@ -1,6 +1,7 @@
 {
   "name": "rose-colored-glasses-theme",
   "displayName": "Rose Colored Glasses Theme",
+  "publisher": "nekablair",
   "description": "The Rose Colored Glasses Theme is a warm and elegant VS Code color scheme inspired by soft pink hues and delicate pastel tones, creating a comforting and inviting workspace. This theme balances gentle contrasts to enhance readability while infusing a touch of optimism into your coding experience.",
   "version": "0.0.1",
   "engines": {
